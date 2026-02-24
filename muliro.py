@@ -6,7 +6,7 @@ caminho_imagem = r"muliro.jpeg"
 
 # Aqui você define os limites
 min_tempo_fechada = 10   # Mínimo de espera
-max_tempo_fechada = 60   # Máximo de espera (1 minuto)
+max_tempo_fechada = 720   # Máximo de espera (1 minuto)
 tempo_aberta = 5         # Quanto tempo a imagem fica na tela
 # ---------------------
 
